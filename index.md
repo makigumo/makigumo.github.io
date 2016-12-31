@@ -1,6 +1,6 @@
 # Hopper Disassembler Plugins
 
-If some plugins are missing, please make a PR.
+If something is missing, please file a [PR](https://github.com/makigumo/makigumo.github.io/pulls).
 
 ## CPU Plugins
 
@@ -28,6 +28,18 @@ If some plugins are missing, please make a PR.
 * [pascalwerz / FAT-EFI](https://github.com/pascalwerz/FAT-EFI)
 * [makigumo / PSXLoader](https://github.com/makigumo/PSXLoader)
 * [makigumo / CGCLoader](https://github.com/makigumo/CGCLoader)
+
+## Tool Plugins
+
+* [keith / hopper-swift-demangle](https://github.com/keith/hopper-swift-demangle)
+* [akiym / HopperPwndbgSynchronizer](https://github.com/akiym/HopperPwndbgSynchronizer)
+* [zbuc / hopperref](https://github.com/zbuc/hopperref)
+* [Maroc-OS / hopperref](https://github.com/Maroc-OS/hopperref)
+* [0xc010d / InstructionReference.hopperTool](https://github.com/0xc010d/InstructionReference.hopperTool)
+
+## Scripts
+
+* [phracker / HopperScripts](https://github.com/phracker/HopperScripts)
 
 ## Xcode Templates
 
