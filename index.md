@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Hopper Disassembler Plugins
 
-You can use the [editor on GitHub](https://github.com/makigumo/makigumo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If some plugins are missing, please make a PR.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## CPU Plugins
 
-### Markdown
+* [agatti / 6502/65816/8x300](https://github.com/agatti/hopper-plugins)
+* [bcharron / hopper-r2a03-cpu](https://github.com/bcharron/hopper-r2a03-cpu)
+* [bcharron / hopper-spc700-cpu](https://github.com/bcharron/hopper-spc700-cpu)
+* [bSr43 / HopperST20C2C4-plugin](https://github.com/bSr43/HopperST20C2C4-plugin)
+* [pascalwerz / videocore-iv](https://github.com/pascalwerz/videocore-iv)
+* [Sappharad / HopperPPC-Plugin](https://github.com/Sappharad/HopperPPC-Plugin)
+* [Sappharad / HopperSH4-Plugin](https://github.com/Sappharad/HopperSH4-Plugin)
+* [wjlandryiii / MSP430](https://github.com/wjlandryiii/MSP430)
+* [makigumo / RISCV](https://github.com/makigumo/RISCV)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Loader Plugins
 
-```markdown
-Syntax highlighted code block
+* [0xc010d / DYLDSharedCache.hopperLoader](https://github.com/0xc010d/DYLDSharedCache.hopperLoader)
+* [0xc010d / EFIFatBinary.hopperLoader](https://github.com/0xc010d/EFIFatBinary.hopperLoader)
+* [akiym / HopperNESLoader](https://github.com/akiym/HopperNESLoader)
+* [agatti / Commodore File Loader](https://github.com/agatti/hopper-plugins)
+* [bcharron / hopper-nes-loader](https://github.com/bcharron/hopper-nes-loader)
+* [bcharron / hopper-spc-loader](https://github.com/bcharron/hopper-spc-loader)
+* [daeken / HopperXbe](https://github.com/daeken/HopperXbe)
+* [Naville / HVL](https://github.com/Naville/HVL)
+* [pablomarx / AIFLoader](https://github.com/pablomarx/AIFLoader)
+* [pascalwerz / FAT-EFI](https://github.com/pascalwerz/FAT-EFI)
+* [makigumo / PSXLoader](https://github.com/makigumo/PSXLoader)
+* [makigumo / CGCLoader](https://github.com/makigumo/CGCLoader)
 
-# Header 1
-## Header 2
-### Header 3
+## Xcode Templates
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/makigumo/makigumo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* https://github.com/makigumo/hopper-xcode-templates
