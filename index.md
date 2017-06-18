@@ -13,6 +13,7 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 * [Sappharad / HopperSH4-Plugin](https://github.com/Sappharad/HopperSH4-Plugin)
 * [wjlandryiii / MSP430](https://github.com/wjlandryiii/MSP430)
 * [makigumo / RISCV](https://github.com/makigumo/RISCV)
+* [makigumo / MIPSCPU](https://github.com/makigumo/MIPSCPU)
 
 ## Loader Plugins
 
