@@ -23,6 +23,7 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 * [bcharron / hopper-nes-loader](https://github.com/bcharron/hopper-nes-loader)
 * [bcharron / hopper-spc-loader](https://github.com/bcharron/hopper-spc-loader)
 * [daeken / HopperXbe](https://github.com/daeken/HopperXbe)
+* [mypasswordisqwerty / HopperDos](https://github.com/mypasswordisqwerty/HopperDos)
 * [Naville / HVL](https://github.com/Naville/HVL)
 * [pablomarx / AIFLoader](https://github.com/pablomarx/AIFLoader)
 * [pascalwerz / FAT-EFI](https://github.com/pascalwerz/FAT-EFI)
