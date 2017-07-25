@@ -43,6 +43,10 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 
 * [phracker / HopperScripts](https://github.com/phracker/HopperScripts)
 
+## Themes
+
+* [doyensec / HopperTheme](https://github.com/doyensec/HopperTheme)
+
 ## Xcode Templates
 
 * https://github.com/makigumo/hopper-xcode-templates
