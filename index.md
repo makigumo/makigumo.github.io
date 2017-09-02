@@ -14,6 +14,7 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 * [wjlandryiii / MSP430](https://github.com/wjlandryiii/MSP430)
 * [makigumo / RISCV](https://github.com/makigumo/RISCV)
 * [makigumo / MIPSCPU](https://github.com/makigumo/MIPSCPU)
+* [tobuto / Hopxagon](https://github.com/tobuto/Hopxagon)
 
 ## Loader Plugins
 
