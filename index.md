@@ -43,6 +43,7 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 ## Scripts
 
 * [phracker / HopperScripts](https://github.com/phracker/HopperScripts)
+* [poboke / Class-Decompile](https://github.com/poboke/Class-Decompile)
 
 ## Themes
 
