@@ -15,6 +15,7 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 * [makigumo / RISCV](https://github.com/makigumo/RISCV)
 * [makigumo / MIPSCPU](https://github.com/makigumo/MIPSCPU)
 * [tobuto / Hopxagon](https://github.com/tobuto/Hopxagon)
+* [anszom / Hopper-cpu-Xtense](https://github.com/anszom/Hopper-cpu-Xtensa)
 
 ## Loader Plugins
 
