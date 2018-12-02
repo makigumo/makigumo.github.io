@@ -32,6 +32,7 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 * [pascalwerz / FAT-EFI](https://github.com/pascalwerz/FAT-EFI)
 * [makigumo / PSXLoader](https://github.com/makigumo/PSXLoader)
 * [makigumo / CGCLoader](https://github.com/makigumo/CGCLoader)
+* [zydeco / pepple-hopper-plugin](https://github.com/zydeco/pebble-hopper-plugin)
 
 ## Tool Plugins
 
