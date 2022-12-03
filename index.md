@@ -32,20 +32,24 @@ If something is missing, please file a [PR](https://github.com/makigumo/makigumo
 * [pascalwerz / FAT-EFI](https://github.com/pascalwerz/FAT-EFI)
 * [makigumo / PSXLoader](https://github.com/makigumo/PSXLoader)
 * [makigumo / CGCLoader](https://github.com/makigumo/CGCLoader)
+* [makigumo / XfileLoader](https://github.com/makigumo/XfileLoader)
 * [zydeco / pepple-hopper-plugin](https://github.com/zydeco/pebble-hopper-plugin)
 
 ## Tool Plugins
 
-* [keith / hopper-swift-demangle](https://github.com/keith/hopper-swift-demangle)
-* [akiym / HopperPwndbgSynchronizer](https://github.com/akiym/HopperPwndbgSynchronizer)
-* [zbuc / hopperref](https://github.com/zbuc/hopperref)
-* [Maroc-OS / hopperref](https://github.com/Maroc-OS/hopperref)
 * [0xc010d / InstructionReference.hopperTool](https://github.com/0xc010d/InstructionReference.hopperTool)
+* [akiym / HopperPwndbgSynchronizer](https://github.com/akiym/HopperPwndbgSynchronizer)
+* [keith / hopper-swift-demangle](https://github.com/keith/hopper-swift-demangle)
+* [Maroc-OS / hopperref](https://github.com/Maroc-OS/hopperref)
+* [ronwai / dsctool](https://github.com/ronwai/dsctool)
+* [zbuc / hopperref](https://github.com/zbuc/hopperref)
 
 ## Scripts
 
 * [phracker / HopperScripts](https://github.com/phracker/HopperScripts)
 * [poboke / Class-Decompile](https://github.com/poboke/Class-Decompile)
+* [RayPS / Hopper-Scripts](https://github.com/RayPS/Hopper-Scripts)
+* [reyder / HopperScripts](https://github.com/reyder/HopperScripts)
 
 ## Themes
 
